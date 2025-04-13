@@ -4,7 +4,7 @@ This repository contains **Low-Level Design (LLD)** implementations of various r
 
 ---
 
-## 📁 Project Overview
+## 📁 Overview
 
 | Module | Description |
 |--------|-------------|
@@ -24,37 +24,6 @@ This repository contains **Low-Level Design (LLD)** implementations of various r
 | `updatetext` | Uses the **Command Pattern** to apply formatting actions (Bold, Italic) on text. |
 | `vendingmachine` | Functional vending machine using the **State Pattern** to manage inventory and user actions. |
 | `weatherstation` | Implements the **Observer Pattern** for updating displays based on weather changes. |
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/ArchanJS/low-level-designs.git
-    cd low-level-designs
-    ```
-
-2. **Open in IntelliJ IDEA or any Java IDE**
-
-3. Navigate to the `src` folder in a project and run the `Main.java` file.
-
-   Example:
-
-    ```bash
-    cd atm/src
-    # Open Main.java in your IDE and run
-    ```
-
----
-
-## 🎯 Purpose
-
-- Strengthen core object-oriented design skills
-- Practice LLD for system design interviews
-- Explore and apply design patterns
-- Understand modular and extensible architecture
 
 ---
 
