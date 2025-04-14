@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/atm/atm.iml" filepath="$PROJECT_DIR$/atm/atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/car-rental-system/car-rental-system.iml" filepath="$PROJECT_DIR$/car-rental-system/car-rental-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatapp/chatapp.iml" filepath="$PROJECT_DIR$/chatapp/chatapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess/chess.iml" filepath="$PROJECT_DIR$/chess/chess.iml" />
       <module fileurl="file://$PROJECT_DIR$/directionapp/directionapp.iml" filepath="$PROJECT_DIR$/directionapp/directionapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/elevatorsystem/elevatorsystem.iml" filepath="$PROJECT_DIR$/elevatorsystem/elevatorsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
